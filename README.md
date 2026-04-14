@@ -1,6 +1,7 @@
 ## Project: Sales Data Analysis using SQL
 
 # Project Overview 
+This project focuses on transforming a raw sales dataset into a structured relational database using SQL. It demonstrates data cleaning, table creation, and analysis using JOIN queries to generate meaningful business insights.
 
 # Tools
 - MySQL
@@ -19,8 +20,8 @@ Sales dataset with customers, product, and product information
 - Identification of high-value customers
 - Customers with highest number of orders identified
 - Products contributing most to revenue
-- Some regions show higher sales concentration
-- Some regions show higher oreder concentration
+- Regions show higher sales concentration
+- Regions show higher order concentration
 
 # Sample screenshots of scripts and outputs
 - Data cleaning: screenshot_data_cleaning.png
