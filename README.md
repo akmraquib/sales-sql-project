@@ -60,6 +60,7 @@ Relationships:
 - One product can appear in multiple orders
 
 ## ERD Diagram
+<img width="541" height="297" alt="ERD" src="https://github.com/user-attachments/assets/e1dea444-b29b-4fbe-a962-484b40955904" />
 
 
 The ERD was created using MySQL Workbench and shows the relationships between tables.
